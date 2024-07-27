@@ -10,4 +10,5 @@ Order Form: An easy-to-use order form where customers can select their desired i
 
 # Project Structure
 coffeecard.html: The main HTML file containing the structure of the web page.
+
 coffeeshop.css: The CSS file responsible for the styling and layout of the web page.
